@@ -1,4 +1,4 @@
-# create-svelte
+<!-- # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
 
@@ -39,4 +39,4 @@ By default, `npm run build` will generate a Node app that you can run with `node
 - [@sveltejs/adapter-vercel](https://github.com/sveltejs/kit/tree/master/packages/adapter-vercel)
 - ...more soon
 
-[See the adapter documentation for more detail](https://kit.svelte.dev/docs#adapters)
+[See the adapter documentation for more detail](https://kit.svelte.dev/docs#adapters) -->
